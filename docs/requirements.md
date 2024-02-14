@@ -1,0 +1,11 @@
+# 요구사항 (Requirements)
+
+* 소셜 로그인 (Social Login)
+* 메인 퀘스트 페이지 UI (Main Quest Page UI)
+* 퀘스트 추가 기능 (Function to add a quest)
+    + 먼저 해결해야할 퀘스트 엮기 (Link to prequest)
+    + 퀘스트 레벨 정하기 (Deciding the level of quest)
+* 퀘스트 세트 경험치 기능 (Experience function)
+* 퀘스트 삭제 기능 (Function to delete a quest)
+* 퀘스트 세트 공유 기능 (Function to share bunch of quests)
+* 퀘스트 세트 목록 (List of Quest Set)
